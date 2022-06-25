@@ -31,12 +31,14 @@
   
 <!--   <img src="https://media.giphy.com/media/qHzzDO357GwCBpn8uT/giphy.gif" width="100">
   <img src="https://media.giphy.com/media/FVOmnX9L69CoQntslz/giphy.gif" width="00"> -->
-  <img src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif" width="150" height="150" stlye="margin-left=0px;">
+  <img stlye="margin-left=0px;" src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif" width="150" height="150" >
                                                                                  
 <br>
 <br>
-   
-  <img src="https://media.giphy.com/media/j3hl83ILQ5aQJJspLu/giphy.gif" width="800">                                                                             
+<br>
+<br>
+  <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" width="500">  
+<!--   https://media.giphy.com/media/j3hl83ILQ5aQJJspLu/giphy.gif -->
   
 <br>
 <br>
