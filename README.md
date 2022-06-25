@@ -30,8 +30,8 @@
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="130">
   
 <!--   <img src="https://media.giphy.com/media/qHzzDO357GwCBpn8uT/giphy.gif" width="100">
-  <img src="https://media.giphy.com/media/FVOmnX9L69CoQntslz/giphy.gif" width="00"> -->
-  <img stlye="margin-left=0px;" src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif" width="150" height="150" >
+  <img src="https://media.giphy.com/media/FVOmnX9L69CoQntslz/giphy.gif" width="00"> 
+  <img stlye="margin-left=0px;" src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif" width="150" height="150" >-->
                                                                                  
 <br>
 <br>
