@@ -25,7 +25,8 @@
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150">
   <br>
   <br>
-  <img src="https://github.com/tannuchoudhary/tannuchoudhary/blob/main/image/ISO_C%2B%2B_Logo.svg" width="130">
+  <img src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" width="130">
+<!--    https://github.com/tannuchoudhary/tannuchoudhary/blob/main/image/ISO_C%2B%2B_Logo.svg-->
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="130">
   
 <!--   <img src="https://media.giphy.com/media/qHzzDO357GwCBpn8uT/giphy.gif" width="100">
@@ -51,7 +52,7 @@
 ---
   
 
-[![Tannu's github activity graph](https://activity-graph.herokuapp.com/graph?username=amiJangid&theme=react-dark)](https://github.com/tannuchoudhary/github-readme-activity-graph)
+[![Ami's github activity graph](https://activity-graph.herokuapp.com/graph?username=amiJangid&theme=react-dark)](https://github.com/tannuchoudhary/github-readme-activity-graph)
 
   
 
