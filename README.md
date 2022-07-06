@@ -45,17 +45,17 @@
 <br>
 <br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=amiJangid)
+![Github stats](https://github-readme-stats.vercel.app/api?username=dreamer)
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amiJangid&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dreamer-girl&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
 
 ---
   
 
-[![Ami's github activity graph](https://activity-graph.herokuapp.com/graph?username=amiJangid&theme=react-dark)](https://github.com/tannuchoudhary/github-readme-activity-graph)
+[![Ami's github activity graph](https://activity-graph.herokuapp.com/graph?username=dreamer-girl&theme=react-dark)](https://github.com/tannuchoudhary/github-readme-activity-graph)
 
   
 
@@ -63,4 +63,4 @@
   </code>
 </p>
 
-![](https://komarev.com/ghpvc/?username=amiJangid&color=44CC11)
+![](https://komarev.com/ghpvc/?username=dreamer-girl&color=44CC11)
