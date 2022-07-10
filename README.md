@@ -25,7 +25,7 @@
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150">
   <br>
   <br>
-  <img src="https://github.com/tannuchoudhary/tannuchoudhary/blob/main/image/ISO_C%2B%2B_Logo.svg" width="130">
+  <img src="image.png" width="130">
 
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="130">
   
